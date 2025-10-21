@@ -6,6 +6,8 @@
 
 Sabendo do seu significado e importância, verificou-se a necessidade de analisar como as industrias brasileiras se encontravam no ano de 2022, o link para download do arquivo foi retirado do kaggle: https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups
 
+Você também pode visualizar a análise realizada no kaggle: https://www.kaggle.com/code/noragan/an-lise-de-startups-unic-rnio-no-brasil-2022
+
 Ferramentas utilizadas: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
